@@ -10,10 +10,8 @@
 Considering the ever-growing quantity of media outlets in addition to our undeniable addiction to the internet, it's no longer an option to ignore the news. Based on our environment and community, it is easy to get saturated by news from a single perspective. Thus, unless with an active intention to consume otherwise, our personal views on the world inevitably narrow and mold according to what we are fed. *Untrending* is built to reverse this common algorithm and reopen users' world views.
 
 ### TEAM:
-
-**Sherrie Lin** Front-end development, UIUX design<br/>
-**Ado Moshe** Back-end development<br/>
-**Swechchha Parajuli** Algorithmic concept<br/>
+**Product Owner** Ado Moshe
+**Development Team Members** Sherrie Lin, Alber† Shay, Swechchha Parajuli
 
 ### HOW *untrending* WORKS:
 
