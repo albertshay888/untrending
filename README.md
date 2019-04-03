@@ -11,7 +11,8 @@ Considering the ever-growing quantity of media outlets in addition to our undeni
 
 ### TEAM:
 **Product Owner** Ado Moshe
-**Development Team Members** Sherrie Lin, Alber† Shay, Swechchha Parajuli
+
+**Development Team Members** Sherrie Lin, Albert Shay, Swechchha Parajuli
 
 ### HOW *untrending* WORKS:
 
